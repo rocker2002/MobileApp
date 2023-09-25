@@ -23,7 +23,7 @@ div.logo{
 div.menu{
     align-self: center;
 }
-div.bg{
+section.bg{
     background: url('header-shapes mobile.png');
     background-color: white;
     background-repeat: no-repeat;
@@ -33,14 +33,14 @@ div.bg{
     flex-flow: column wrap;
     margin: auto;
 }
-div.bg h1{
+section.bg h1{
     font-size: 40px;
     font-weight: 700;
     color: #172B4D;
     line-height: 52px;
     margin: 114px 19px;
 }
-div.bg p{
+section.bg p{
     line-height: 24px;
     font-size: 16px;
     margin: -101px 24px;
